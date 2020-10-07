@@ -8,6 +8,6 @@
 - Webpack
 
 ## Adres strony na GitHub Pages: 
-https://oleksiakmonika.github.io/prociewiczmalgorzata/dist/#/
+https://oleksiakmonika.github.io/malgorzataprociewicz/dist/#/
 
 # malgorzataprociewicz
