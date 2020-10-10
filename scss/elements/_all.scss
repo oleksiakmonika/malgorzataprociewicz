@@ -1,6 +1,8 @@
 body{
   font-family: $font-base;
   color: $blue;
-
+  a {
+    text-decoration: none;
+  }
   //background: linear-gradient(hsl(36, 100%, 58%), hsl(57, 100%, 68%));
 }
